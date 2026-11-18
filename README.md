@@ -21,12 +21,6 @@ Built because I kept wasting food and money on things I forgot I had.
 **C++ · WiFi hotspot · Web interface · Persistent storage**  
 → [freezer-robot](https://github.com/neet813/freezer-robot)
 ---
-### 💪 75 Hard Tracker
-A PWA to track the 75 Hard challenge — daily tasks, streak badges, grace system, weekly reflections.  
-Built for myself. Single HTML file. No installs, no accounts.  
-**HTML · CSS · JS · PWA**  
-→ [75_HardDay](https://github.com/neet813/75_HardDay)
----
 ### 📦 Supply Chain Early Warning System
 Automated risk monitor — live APIs, risk scoring, Google Sheets, Gmail alerts via GitHub Actions.  
 Built because supply chain failures are silent until they're expensive.  
