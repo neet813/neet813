@@ -55,6 +55,6 @@ Automated facilities task management — auto-escalation, live forms, email aler
 ## Background
 Data Analyst by day — Python, SQL, Power BI, turning messy data into decisions.  
 Product builder by instinct — if something frustrates me enough, I'll build a fix for it.
-📍 India &nbsp;·&nbsp; 💼 [LinkedIn](https://linkedin.com/in/navneet-kaur-analyst) &nbsp;·&nbsp; 📸 [@just_nav.neet](https://instagram.com/just_nav.neet)
+📍 India &nbsp;·&nbsp; 💼 [LinkedIn](https://linkedin.com/in/navneet-kaur-analyst) &nbsp;·&nbsp
 ---
 *Everything here is built by me — with AI as the engine, not the driver.*
