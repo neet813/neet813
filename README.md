@@ -5,7 +5,7 @@ When I find a broken system — in a warehouse, a supply chain, a fridge — I b
 ## What I Actually Do
 My day job is data: client reporting, consumer intelligence, operations analytics.  
 Outside of that, I build products.
-**AI is my build partner.** It handles the code I don't know. The ideas, the product logic, and the "does this actually solve anything?" question are mine.
+**AI is my build partner ; it speeds up the coding, I own the logic, the checks and the quality. The ideas, the product logic, and the "does this actually solve anything?" question are mine.
 ---
 ## Things I've Shipped
 
