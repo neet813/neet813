@@ -34,7 +34,7 @@ Built because supply chain failures are silent until they're expensive.
 → [Supply-Chain-Early-Warning](https://github.com/neet813/Supply-Chain-Early-Warning)
 ---
 ### 🚚 Amazon Ghost Delivery Analysis
-Analysed 43,739 real Amazon deliveries to surface hidden ghost delivery patterns.  
+Analysed 43,739 Amazon delivery records (public dataset) to surface hidden ghost delivery patterns.
 **Python · SQL · Looker Studio · Jupyter**  
 → [amazon-ghost-delivery-analysis](https://github.com/neet813/amazon-ghost-delivery-analysis)
 ---
